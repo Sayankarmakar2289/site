@@ -11,5 +11,4 @@ catch(PDOException $error)
     echo $error->getMessage();
 }
 
-var_dump('$pdo');
 ?>
