@@ -1,0 +1,40 @@
+#login1
+{
+  margin-top: 350px; 
+  margin-bottom: 100px; 
+  margin-right: 200px; 
+  margin-left: auto;
+  /* left: 50%; */
+  /* right: 50; */
+  width: 500px;
+  border: 3px solid #000000;
+
+}
+
+
+#username
+{
+  width: 350px;
+}
+
+#password
+{
+  width: 350px;
+}
+
+#regi
+{
+
+top: 535px;
+/* position: sticky; */
+margin-left: 300px;
+
+}
+
+
+
+/* #form1
+{
+  width: auto
+  ;
+} */
